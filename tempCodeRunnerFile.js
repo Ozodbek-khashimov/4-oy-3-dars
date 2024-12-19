@@ -1,0 +1,1 @@
+{ id: 3, model: "Mercedes-Benz CLS 63", price: 70000 }
